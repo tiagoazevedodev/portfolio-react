@@ -1,0 +1,25 @@
+:root {
+    --primary-color: #60b0bb;
+    --secondary-color-1: #318a94;
+    --secondary-color-2: #b4f5ff;
+    --neutral-color: #0C0C0D;
+    --neutral-color-2: #141314;
+    --white: #ffffff;
+    --black: #000000;
+  }
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Noto Sans", sans-serif;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--neutral-color);
+    color: var(--white);
+}
+
+
+
