@@ -6,6 +6,7 @@
     --neutral-color-2: #141314;
     --white: #ffffff;
     --black: #000000;
+    --gray: #696969;
   }
 
 
@@ -13,10 +14,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Manrope", sans-serif;
 }
 body {
-    font-family: 'Roboto', sans-serif;
     background-color: var(--neutral-color);
     color: var(--white);
 }

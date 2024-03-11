@@ -1,0 +1,28 @@
+.about-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0;
+    margin: 8rem 12rem 0;
+}
+
+#name-title {
+    font-size: 5rem;
+    font-weight: 400;
+}
+
+.about-div {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 33%;
+    align-self: flex-start;
+}
+
+.about-div span {
+    color: var(--gray);
+}
+
+.about-section img {
+    width: 400px;
+}

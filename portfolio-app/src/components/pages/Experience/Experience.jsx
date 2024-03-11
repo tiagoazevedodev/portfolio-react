@@ -1,4 +1,4 @@
-import "../../global.css";
+import "../../../global.css";
 export const Experience = () => {
   return (
     <div>Experience</div>
